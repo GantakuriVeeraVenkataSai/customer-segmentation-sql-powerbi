@@ -36,5 +36,16 @@ SQL was used to:
 ## Dashboard Preview
 <img width="1920" height="890" alt="customer dashboard" src="https://github.com/user-attachments/assets/b5085bad-36ce-4945-88df-e229de659601" />
 
-
 ## Repository Structure
+customer-segmentation-sql-powerbi
+│
+├── dataset
+│   └ sales_dataset.csv
+│
+├── sql
+│   └ customer_analysis.sql
+│
+├── dashboard
+│   └ dashboard_preview.png
+│
+└── README.md
